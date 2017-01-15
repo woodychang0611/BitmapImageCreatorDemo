@@ -10,7 +10,7 @@ using System.Windows;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 
-//PresentationCore and WindowsBase are needed, add them to "References"
+//Assembly PresentationCore and WindowsBase are needed, add them to "References"
 
 namespace BitmapImageCreatorDemo
 {
