@@ -1,5 +1,5 @@
 # BitmapImageCreatorDemo
-THis demo creates bitmap and save it to png and bmp files by using C#
+This demo creates bitmap and save it to png and bmp files by using C#
 
 
 ## Note 
